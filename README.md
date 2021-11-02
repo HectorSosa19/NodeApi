@@ -9,5 +9,5 @@ Se tienen que descargar algunas dependencias tales como
 netlify dev
 
 Si quieren ver el resultado aqui esta 
-http://localhost:8888/.netlify/functions/api
-http://localhost:8888/json
+https://angry-liskov-3c3c47.netlify.app/
+https://angry-liskov-3c3c47.netlify.app/json
